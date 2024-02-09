@@ -1,4 +1,4 @@
-Created a Customer-Centric Pharmacy Management System using Java and a Graphical User Interface (GUI) to optimize the experience for customers and staff alike. The system empowers customers to browse, select, and purchase pharmaceutical products seamlessly.
+A Customer-Centric Pharmacy Management System using Java and a Graphical User Interface (GUI) to optimize the experience for customers and staff alike. The system empowers customers to browse, select, and purchase pharmaceutical products seamlessly.
 
 ![image](https://github.com/Michael-2003/Pharmacy-Management-System/assets/107130078/0aec833b-0568-4ce2-8a8e-5721cacb33f3)
 
